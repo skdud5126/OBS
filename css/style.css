@@ -7,7 +7,7 @@ body{margin: 0; padding: 0;
 ul, ol, li {list-style: none;}
 img{border: 0px;}
 
-#wrap{width: 100%}
+#wrap{width: 50%}
 #wrap .inner{margin: 0 auto;
             width: 1200px; height: 983px;
             }
